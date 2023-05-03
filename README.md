@@ -1,0 +1,2 @@
+# Web Development Foundations - D276
+ Web Development Foundations introduces students to web design and development using HTML, XML, and Cascading Style Sheets (CSS), the foundational languages of the web. This course also covers how to troubleshoot problems using developer tools and integrated development environments commonly employed in web development. There are no prerequisites for this course. 
